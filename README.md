@@ -16,7 +16,8 @@ An automated mailing service written in JavaScript.
 
 To run this project, you will need to add the following environment variables to your .env file
 
-`password`
+`USER_EMAIL`
+`PASSWORD`
 
 
   
